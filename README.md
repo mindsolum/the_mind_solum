@@ -7,7 +7,7 @@ Offline. Safe. For you.
 
 ## What is MindSolum?
 
-MindSolum is a minimalist app to capture your thoughts — accompanied by calming sounds, natural biomes, or silence. Designed to keep your data **completely private and secure**, it works **offline** and stores everything **locally** on your device.
+MindSolum is a minimalist app to capture your thoughts - accompanied by calming sounds, natural biomes, or silence. Designed to keep your data **completely private and secure**, it works **offline** and stores everything **locally** on your device.
 
 ---
 
@@ -23,7 +23,7 @@ MindSolum is a minimalist app to capture your thoughts — accompanied by calmin
 
 ## Why MindSolum?
 
-In a world full of distractions, MindSolum offers a private, safe space to express yourself. It’s your personal journal, tailored to your style, always secure, and always accessible — no internet required.
+In a world full of distractions, MindSolum offers a private, safe space to express yourself. It’s your personal journal, tailored to your style, always secure, and always accessible - no internet required.
 
 ---
 
